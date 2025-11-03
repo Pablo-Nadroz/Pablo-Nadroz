@@ -14,10 +14,11 @@
 
 
 ## Habilidades
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Nadroz&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Nadroz&layout=compact&theme=radical)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pablo-Nadroz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pablo-Nadroz&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Pablo-Nadroz/dio-lab-open-source)
+
